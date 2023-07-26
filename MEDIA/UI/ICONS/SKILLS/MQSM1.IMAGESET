@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "MQSM1" Imagefile="media/ui/icons/skills/MQSM1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="mqsmt24b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt24" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt23b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt23" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt22b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt22" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt21b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="mqsmt212b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt212" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt211b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt211" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt210b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt210" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt21" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="mqsmt2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="mqsmt10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="mqsmt1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

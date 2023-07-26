@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="skills_duelist1" Imagefile="media/ui/icons/skills/skills_duelist1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="duelist_charge_mastery" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_bonk_grey" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_bonk" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_block_grey" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_block" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_barge_grey" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_barge" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="duelist_attack_buff_grey" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="duelist_attack_buff" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="duelist_attack_armor_grey" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="duelist_attack_armor" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="duelist_armor_buff_grey" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="duelist_armor_buff" XPos="331" YPos="67" Width="64" Height="64" />
+</Imageset>

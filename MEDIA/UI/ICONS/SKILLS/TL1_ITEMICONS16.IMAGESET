@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "tl1_itemicons16" Imagefile="media/ui/icons/skills/tl1_itemicons16.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skill_tl1_armormaster" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_tl1_alchemistgolem_gray" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_tl1_alchemistgolem_beam_gray" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_tl1_alchemistgolem_beam" XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_tl1_alchemistgolem" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_tl1_adventurer_gray" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_tl1_adventurer" XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="tl1_map_scroll" XPos="448" YPos="0" Width="64" Height="64" />
+</Imageset>

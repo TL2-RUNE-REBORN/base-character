@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "destrobar01" Imagefile="media/ui/hud/destrobar01.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="charge_destro_frame" XPos="0" YPos="0" Width="244" Height="69" />
+	<Image Name="charge_destro_overlay" XPos="0" YPos="69" Width="244" Height="69" />
+	<Image Name="charge_destro_resolve" XPos="0" YPos="138" Width="244" Height="69" />
+	<Image Name="charge_destro_fury" XPos="95" YPos="207" Width="149" Height="69" />	
+</Imageset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "destropassives" Imagefile="media/ui/icons/skills/destro_passives.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skill_destro_block"        XPos="0"   YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_block_gray"   XPos="64"  YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_dual"         XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_dual_gray"    XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_crit"         XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_crit_gray"    XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_armor"        XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_armor_gray"   XPos="448" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_destro_2h"           XPos="0"   YPos="64" Width="64" Height="64" />
+	<Image Name="skill_destro_2h_gray"      XPos="64"  YPos="64" Width="64" Height="64" />
+	<Image Name="skill_destro_ironwill"     XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_destro_ironwill_gray" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_destro_affinity"      XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_destro_affinity_gray" XPos="320" YPos="64" Width="64" Height="64" />
+</Imageset>

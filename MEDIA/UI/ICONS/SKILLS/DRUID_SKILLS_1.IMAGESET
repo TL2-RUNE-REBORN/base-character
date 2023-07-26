@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "druid_skills_1" Imagefile="media/ui/icons/skills/druid_skills_1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+  <!-- Shapeshifting skills -->
+	<Image Name="skillicon_druid_strike_gray" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_druid_strike" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_druid_leap_gray" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_druid_leap" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_druid_howl_gray" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_druid_howl" XPos="331" YPos="1" Width="64" Height="64" />
+
+  <Image Name="skillicon_druid_alertness_gray" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_druid_alertness" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_druid_roar_gray" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_druid_roar" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_druid_hurl_boulder_gray" XPos="265" YPos="67" Width="64" Height="64" />
+  <Image Name="skillicon_druid_hurl_boulder" XPos="331" YPos="67" Width="64" Height="64" />
+
+  <Image Name="skillicon_druid_fury_gray" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_druid_fury" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_druid_hunger_gray" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_druid_hunger" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_druid_rage_gray" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_druid_rage" XPos="331" YPos="133" Width="64" Height="64" />
+
+  <Image Name="skillicon_druid_infect_gray" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_druid_infect" XPos="67" YPos="199" Width="64" Height="64" />
+
+  <!-- Nature skills -->
+  <Image Name="skillicon_druid_insect_swarm_gray" XPos="133" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_druid_insect_swarm" XPos="199" YPos="199" Width="64" Height="64" />
+  <Image Name="skillicon_druid_earthquake_gray" XPos="265" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_druid_earthquake" XPos="331" YPos="199" Width="64" Height="64" />
+
+	<Image Name="skillicon_druid_twister_gray" XPos="1" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_druid_twister" XPos="67" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_druid_blizzard_gray" XPos="133" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_druid_blizzard" XPos="199" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_druid_root_growth_gray" XPos="265" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_druid_root_growth" XPos="331" YPos="265" Width="64" Height="64" />
+
+	<Image Name="skillicon_druid_thunderstorm_gray" XPos="1" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_druid_thunderstorm" XPos="67" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_druid_cyclone_gray" XPos="133" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_druid_cyclone" XPos="199" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_druid_arcane_tools_gray" XPos="265" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_druid_arcane_tools" XPos="331" YPos="331" Width="64" Height="64" />
+
+	<Image Name="skillicon_druid_disease_gray" XPos="1" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_druid_disease" XPos="67" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_druid_bark_skin_gray" XPos="133" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_druid_bark_skin" XPos="199" YPos="397" Width="64" Height="64" />
+</Imageset>

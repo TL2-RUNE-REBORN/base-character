@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "Alchemist_Chargebar" Imagefile="media/ui/hud/Alchemist_Chargebar.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_charge_alchemist_overlay_2" XPos="1" YPos="1" Width="257" Height="87" />
+	<Image Name="ig_charge_alchemist_overlay_1" XPos="260" YPos="1" Width="250" Height="84" />
+	<Image Name="ig_charge_alchemist_frame" XPos="512" YPos="1" Width="244" Height="78" />
+	<Image Name="ig_charge_alchemist_bar_blight" XPos="758" YPos="1" Width="244" Height="78" />
+	<Image Name="ig_charge_alchemist_bar" XPos="512" YPos="81" Width="225" Height="54" />
+</Imageset>

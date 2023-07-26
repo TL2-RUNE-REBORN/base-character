@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "JX" Imagefile="media/ui/icons/skills/JX.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="jx309b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="jx309" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="jx308b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="jx308" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="jx307b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="jx307" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="jx306b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="jx306" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="jx305b" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="jx305" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="jx304b" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="jx304" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="jx303b" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="jx303" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="jx302b" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="jx302" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="jx301b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="jx3012b" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="jx3012" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="jx3011b" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="jx3011" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="jx3010b" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="jx3010" XPos="67" YPos="199" Width="64" Height="64" />
+	<Image Name="jx301" XPos="133" YPos="199" Width="64" Height="64" />
+	<Image Name="jx208b" XPos="199" YPos="199" Width="64" Height="64" />
+	<Image Name="jx208" XPos="265" YPos="199" Width="64" Height="64" />
+	<Image Name="jx201b" XPos="331" YPos="199" Width="64" Height="64" />
+	<Image Name="jx2012b" XPos="397" YPos="199" Width="64" Height="64" />
+	<Image Name="jx2012" XPos="1" YPos="265" Width="64" Height="64" />
+	<Image Name="jx201" XPos="67" YPos="265" Width="64" Height="64" />
+</Imageset>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "tl1cp_embershieldsheets" Imagefile="media/ui/icons/skills/embershieldicons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="tl1cp_shield_pois" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="tl1cp_shield_phys" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="tl1cp_shield_ice" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="tl1cp_shield_fire" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="tl1cp_shield_elec" XPos="265" YPos="1" Width="64" Height="64" />
+</Imageset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "LoESkillTreeTextureLolesch8" Imagefile="media/ui/hud/Skilltree_lolesch9.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="Skilltree_lolesch8" XPos="132" YPos="1" Width="892" Height="715" />
+	<Image Name="Gold_Skill_holder" XPos="132" YPos="717" Width="81" Height="102" />
+	<Image Name="Blue_Skill_holder" XPos="213" YPos="717" Width="81" Height="102" />
+	<Image Name="Red_Skill_holder" XPos="294" YPos="717" Width="81" Height="102" />
+	<Image Name="gold_skillplate" XPos="380" YPos="717" Width="61" Height="83" />
+	<Image Name="blue_skillplate" XPos="443" YPos="717" Width="61" Height="83" />
+	<Image Name="hor_gold_skillplate" XPos="506" YPos="717" Width="83" Height="61" />
+	<Image Name="hor_blue_skillplate" XPos="592" YPos="717" Width="83" Height="61" />
+</Imageset>

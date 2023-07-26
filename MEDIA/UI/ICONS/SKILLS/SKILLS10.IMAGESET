@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "skills10" Imagefile="media/ui/icons/skills/skills10.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skillicon_summond1" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond2" XPos="64" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond3" XPos="128" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond4" XPos="192" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond5" XPos="256" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond6" XPos="320" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond7" XPos="384" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summond8" XPos="1" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond9" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond10" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond11" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond12" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond13" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond14" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summond15" XPos="1" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond16" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond17" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond18" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond19" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond20" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond21" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="skillicon_summond22" XPos="1" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_summond23" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_summond24" XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_summond25" XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_summond26" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="skillicon_summond27" XPos="320" YPos="192" Width="64" Height="64" />
+</Imageset>

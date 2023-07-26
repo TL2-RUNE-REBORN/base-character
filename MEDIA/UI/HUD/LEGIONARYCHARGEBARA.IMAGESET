@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "LegionaryChargeBarA" Imagefile="media/ui/hud/legionarychargebarA.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >   
+	<Image Name="ig_charge_legionary_bar" XPos="6" YPos="480" Width="202" Height="26" />
+</Imageset>

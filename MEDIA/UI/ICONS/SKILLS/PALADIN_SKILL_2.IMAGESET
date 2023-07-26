@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "PALADIN_SKILL_2" Imagefile="media/ui/icons/skills/PALADIN_SKILL_2.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_passjudgement_grey" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_reconing" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_reconing_grey" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_renderverdict" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_renderverdict_grey" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_sanctifiedfury" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_sanctifiedfury_grey" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_fireslam_grey" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_firesword" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_firesword_grey" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_flamestrike" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_flamestrike_grey" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_judgementday" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_judgementday_grey" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_righteousweapon_grey" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_wrathofgod" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_wrathofgod_grey" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_consecration" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_consecration_grey" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_righteoushammer" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_righteoushammer_grey" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="icon_turnevil" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="icon_turnevil_grey" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "EW_ChargeBar" Imagefile="media/ui/hud/EW_ChargeBar.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ew_chargebar_empty" XPos="0" YPos="0" Width="256" Height="67" />
+	<Image Name="ew_chargebar_full" XPos="0" YPos="67" Width="256" Height="67" />
+	<Image Name="ew_chargebar_jauge" XPos="0" YPos="136" Width="103" Height="17" />
+</Imageset>

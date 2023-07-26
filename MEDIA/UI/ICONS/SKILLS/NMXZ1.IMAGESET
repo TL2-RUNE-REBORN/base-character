@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "NMXZ1" Imagefile="media/ui/icons/skills/NMXZ1.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="nm112" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="nm111b" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="nm111" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="nm110b" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="nm110" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="nm109b" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="nm109" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="nm108b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="nm108" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="nm107b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="nm107" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="nm106b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="nm106" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="nm105b" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="nm105" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="nm104b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="nm104" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="nm103b" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="nm103" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="nm102b" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="nm102" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="nm101b" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="nm101" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

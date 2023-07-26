@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "RZNY2" Imagefile="media/ui/icons/skills/RZNY2.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="2_2x2_1" XPos="1" YPos="1" Width="510" Height="2" />
+	<Image Name="rznyb" XPos="1" YPos="5" Width="128" Height="128" />
+	<Image Name="rzny" XPos="131" YPos="5" Width="128" Height="128" />
+	<Image Name="2_2x2_3" XPos="261" YPos="5" Width="2" Height="2" />
+</Imageset>

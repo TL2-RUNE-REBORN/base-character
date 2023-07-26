@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "RXCQ_B" Imagefile="media/ui/icons/skills/RXCQ_B.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zs3_9ab" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_9a" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_6b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_6a" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_5b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_5a" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_2ab" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="zs3_2a" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="zs3_1ab" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="zs3_1a" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="zs3_13b" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="zs3_13a" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="zs2_4ab" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="zs2_4a" XPos="397" YPos="67" Width="64" Height="64" />
+</Imageset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "MAST1" Imagefile="media/ui/icons/skills/MAST1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="mast1_tf" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_8b" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_8" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_7b" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_7" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_6b" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_6" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="mast1_5b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_5" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_4b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_4" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_3b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_3" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_2b" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="mast1_2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="mast1_1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="mast1_1" XPos="133" YPos="133" Width="64" Height="64" />
+</Imageset>

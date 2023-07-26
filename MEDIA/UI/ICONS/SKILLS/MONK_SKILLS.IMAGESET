@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "monk_skills" Imagefile="media/ui/icons/skills/monk_skills.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skillicon_monk_shockwave_gray" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_shockwave" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_spinning_back_kick_gray" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_spinning_back_kick" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_fists_of_fury_gray" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_fists_of_fury" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_awareness_gray" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_awareness" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_kiai_gray" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_kiai" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_quivering_palm_gray" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_quivering_palm" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_meditation_gray" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_meditation" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_unarmed_gray" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_unarmed" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_parry_gray" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_parry" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_find_weakness_gray" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_monk_find_weakness" XPos="67" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_monk_burning_fists_gray" XPos="133" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_monk_burning_fists" XPos="199" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_monk_solar_flare_gray" XPos="265" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_monk_solar_flare" XPos="331" YPos="199" Width="64" Height="64" />
+
+	<Image Name="skillicon_monk_sun_rays_gray" XPos="1" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_monk_sun_rays" XPos="67" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_monk_summon_elemental_gray" XPos="133" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_monk_summon_elemental" XPos="199" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_monk_corona_gray" XPos="265" YPos="265" Width="64" Height="64" />
+	<Image Name="skillicon_monk_corona" XPos="331" YPos="265" Width="64" Height="64" />
+
+	<Image Name="skillicon_monk_ground_slam_gray" XPos="1" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_monk_ground_slam" XPos="67" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_monk_supernova_gray" XPos="133" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_monk_supernova" XPos="199" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_monk_elemental_mastery_gray" XPos="265" YPos="331" Width="64" Height="64" />
+	<Image Name="skillicon_monk_elemental_mastery" XPos="331" YPos="331" Width="64" Height="64" />
+
+	<Image Name="skillicon_monk_solar_wind_gray" XPos="1" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_monk_solar_wind" XPos="67" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_monk_daybreak_gray" XPos="133" YPos="397" Width="64" Height="64" />
+	<Image Name="skillicon_monk_daybreak" XPos="199" YPos="397" Width="64" Height="64" />
+</Imageset>

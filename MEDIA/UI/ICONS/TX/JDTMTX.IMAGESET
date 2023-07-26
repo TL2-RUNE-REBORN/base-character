@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "JDTMTX" Imagefile="media/UI/ICONS/TX/JDTMTX.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="jdtm_n" XPos="1" YPos="1" Width="120" Height="120" />
+	<Image Name="jdtm_l" XPos="123" YPos="1" Width="120" Height="120" />
+	<Image Name="jdtm_n_lced" XPos="245" YPos="1" Width="118" Height="118" />
+	<Image Name="jdtm_n_hover" XPos="365" YPos="1" Width="118" Height="118" />
+	<Image Name="jdtm_l_lced" XPos="245" YPos="121" Width="118" Height="118" />
+	<Image Name="jdtm_l_hover" XPos="365" YPos="121" Width="118" Height="118" />
+</Imageset>

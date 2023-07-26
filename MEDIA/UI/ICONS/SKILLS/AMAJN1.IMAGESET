@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "AMAJN1" Imagefile="media/ui/icons/skills/amajn1.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ama033" XPos="0" YPos="0" Width="70" Height="70" />
+	<Image Name="ama032" XPos="70" YPos="0" Width="70" Height="70" />
+	<Image Name="ama031" XPos="140" YPos="0" Width="70" Height="70" />
+	<Image Name="ama030" XPos="210" YPos="0" Width="70" Height="70" />
+	<Image Name="ama03" XPos="280" YPos="0" Width="70" Height="70" />
+	<Image Name="ama029" XPos="350" YPos="0" Width="70" Height="70" />
+	<Image Name="ama028" XPos="420" YPos="0" Width="70" Height="70" />
+	<Image Name="ama027" XPos="0" YPos="70" Width="70" Height="70" />
+	<Image Name="ama026" XPos="70" YPos="70" Width="70" Height="70" />
+	<Image Name="ama025" XPos="140" YPos="70" Width="70" Height="70" />
+	<Image Name="ama024" XPos="210" YPos="70" Width="70" Height="70" />
+	<Image Name="ama023" XPos="280" YPos="70" Width="70" Height="70" />
+	<Image Name="ama022" XPos="350" YPos="70" Width="70" Height="70" />
+	<Image Name="ama021" XPos="420" YPos="70" Width="70" Height="70" />
+	<Image Name="ama020" XPos="0" YPos="140" Width="70" Height="70" />
+	<Image Name="ama02" XPos="70" YPos="140" Width="70" Height="70" />
+	<Image Name="ama019" XPos="140" YPos="140" Width="70" Height="70" />
+	<Image Name="ama018" XPos="210" YPos="140" Width="70" Height="70" />
+	<Image Name="ama017" XPos="280" YPos="140" Width="70" Height="70" />
+	<Image Name="ama016" XPos="350" YPos="140" Width="70" Height="70" />
+	<Image Name="ama015" XPos="420" YPos="140" Width="70" Height="70" />
+	<Image Name="ama014" XPos="0" YPos="210" Width="70" Height="70" />
+	<Image Name="ama013" XPos="70" YPos="210" Width="70" Height="70" />
+	<Image Name="ama012" XPos="140" YPos="210" Width="70" Height="70" />
+	<Image Name="ama011" XPos="210" YPos="210" Width="70" Height="70" />
+	<Image Name="ama010" XPos="280" YPos="210" Width="70" Height="70" />
+	<Image Name="ama01" XPos="350" YPos="210" Width="70" Height="70" />
+</Imageset>

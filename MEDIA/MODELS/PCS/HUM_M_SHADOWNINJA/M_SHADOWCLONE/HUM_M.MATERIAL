@@ -1,0 +1,475 @@
+material Hum_M/Chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/ExChest
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Belt
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Thighs
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/MidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/ExMidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Calf
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/ExCalf
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Foot
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/ExFoot
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/MidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/ExMidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Forearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/ExForearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Hand
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/EXHand
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Pauldrons
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Helmet
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Eyes
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Jaw
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/JawSide
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Hair
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Scalp
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Ears
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}
+material Hum_M/Guild
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 1
+			diffuse 1 1 1
+			specular 0 0 0 0
+			emissive .2 .2 .2
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture phasebeast.dds
+			}
+		}
+	}
+}

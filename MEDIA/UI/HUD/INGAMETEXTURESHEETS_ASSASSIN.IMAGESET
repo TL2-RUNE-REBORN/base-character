@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_Assassin" Imagefile="media/ui/hud/ingametexturesheets_assassin.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="ig_skilltabs_assassin_martial_rollover" XPos="0" YPos="18" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_martial_on" XPos="72" YPos="18" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_martial_off" XPos="144" YPos="18" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_poison_rollover" XPos="0" YPos="69" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_poison_on" XPos="72" YPos="69" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_poison_off" XPos="144" YPos="69" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_traps_rollover" XPos="0" YPos="120" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_traps_on" XPos="72" YPos="120" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_assassin_traps_off" XPos="144" YPos="120" Width="70" Height="50" />
+	<Image Name="ig_skillpanel_progressbar_passive_tiers_bar" XPos="0" YPos="0" Width="138" Height="16" />
+	<Image Name="ig_charge_assassin_overlay" XPos="0" YPos="171" Width="244" Height="69" />
+	<Image Name="ig_charge_assassin_frame" XPos="0" YPos="242" Width="244" Height="69" />
+ 	<Image Name="ig_charge_assassin_bar" XPos="0" YPos="314" Width="210" Height="35" />
+ 	<Image Name="ig_skillpanel_blue_tiers" XPos="250" YPos="0" Width="152" Height="139" />
+</Imageset>

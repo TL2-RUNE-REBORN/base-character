@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "JX_ChargeBar" Imagefile="media/ui/hud/JX_ChargeBar.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="JX_chargebar_empty" XPos="0" YPos="0" Width="256" Height="67" />
+	<Image Name="JX_chargebar_full" XPos="0" YPos="67" Width="256" Height="67" />
+	<Image Name="JX_chargebar_jauge" XPos="0" YPos="136" Width="103" Height="17" />
+</Imageset>

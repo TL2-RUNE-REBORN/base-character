@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "KRZS1" Imagefile="media/ui/icons/skills/KRZS1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="krzs1_9" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_8b" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_8" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_7b" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_7" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_6b" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_6" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="krzs1_5b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_5" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_4b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_4" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_3b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_3" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_2b" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="krzs1_2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="krzs1_10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="krzs1_1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

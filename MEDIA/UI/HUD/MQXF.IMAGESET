@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "MQXF" Imagefile="media/ui/hud/MQXF.dds" NativeHorzRes="256" NativeVertRes="256" AutoScaled="true" >
+	<Image Name="MQXFbase" XPos="0" YPos="0" Width="245" Height="65" />
+	<Image Name="MQXFcharging" XPos="0" YPos="67" Width="245" Height="65" />
+	<Image Name="MQXFfull" XPos="0" YPos="134" Width="245" Height="65" />	
+</Imageset>

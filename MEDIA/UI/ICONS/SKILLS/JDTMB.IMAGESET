@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "JDTMB" Imagefile="media/ui/icons/skills/jdtmb.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="jdtm309b" XPos="1" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm308b" XPos="73" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm307b" XPos="145" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm306b" XPos="217" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm305b" XPos="289" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm303b" XPos="361" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm3012b" XPos="433" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm3011b" XPos="1" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm3010b" XPos="73" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm209b" XPos="145" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm203b" XPos="217" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm2012b" XPos="289" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm2011b" XPos="361" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm2010b" XPos="433" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm109b" XPos="1" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm108b" XPos="73" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm106b" XPos="145" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm105b" XPos="217" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm104b" XPos="289" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm103b" XPos="361" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm102b" XPos="433" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm101b" XPos="1" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm1012b" XPos="73" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm1011b" XPos="145" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm1010b" XPos="217" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm107b" XPos="289" YPos="217" Width="70" Height="70" />
+</Imageset>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "PLCHARGEBAR" Imagefile="media/ui/hud/PLCHARGEBAR.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="plchargebar_frame" XPos="0" YPos="0" Width="240" Height="66" />
+	<Image Name="plchargebar_prog" XPos="0" YPos="66" Width="240" Height="66" />
+</Imageset>

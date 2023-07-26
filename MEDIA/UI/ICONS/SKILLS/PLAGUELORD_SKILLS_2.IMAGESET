@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "PLAGUELORD_SKILLS2" Imagefile="media/ui/icons/skills/Plaguelord_skills_2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="IconDrain" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="IconDrain_grey" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="IconCrimsonLance" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="IconCrimsonLance_grey" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="IconFrozenVeins" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="IconFrozenVeins_grey" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="IconScythe" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="IconScythe_grey" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="IconGoreBomb" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="IconGoreBomb_grey" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="IconBodyBoost" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="IconBodyBoost_grey" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="IconDesecrate" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="IconDesecrate_grey" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="IconSoulBlood" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="IconSoulBlood_grey" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="IconHemofrenzy" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="IconHemofrenzy_grey" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="IconNecrophage" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="IconNecrophage_grey" XPos="331" YPos="133" Width="64" Height="64" />
+</Imageset>

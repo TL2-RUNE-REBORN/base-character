@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "ZDFS1" Imagefile="media/ui/icons/skills/ZDFS1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zdfst24b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst24" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst23b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst23" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst22b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst22" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst21b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="zdfst212b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst212" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst211b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst211" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst210b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst210" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst21" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="zdfst2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="zdfst10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="zdfst1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

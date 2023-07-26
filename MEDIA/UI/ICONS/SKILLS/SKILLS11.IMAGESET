@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "skills11" Imagefile="media/ui/icons/skills/skills11.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skillicon_summone1" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone2" XPos="64" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone3" XPos="128" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone4" XPos="192" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone5" XPos="256" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone6" XPos="320" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone7" XPos="384" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_summone8" XPos="1" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summone9" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summone10" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summone11" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summone12" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skillicon_summone13" XPos="320" YPos="64" Width="64" Height="64" />
+</Imageset>

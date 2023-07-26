@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "DYWS1" Imagefile="media/ui/icons/skills/DYWS1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="dywst24b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst24" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst23b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst23" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst22b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst22" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst21b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="dywst212b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst212" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst211b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst211" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst210b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst210" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst21" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="dywst2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="dywst10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="dywst1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

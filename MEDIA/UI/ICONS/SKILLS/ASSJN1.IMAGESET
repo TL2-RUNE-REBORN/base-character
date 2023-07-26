@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "ASSJN1" Imagefile="media/ui/icons/skills/assjn1.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ass019" XPos="0" YPos="0" Width="70" Height="70" />
+	<Image Name="ass018" XPos="70" YPos="0" Width="70" Height="70" />
+	<Image Name="ass017" XPos="140" YPos="0" Width="70" Height="70" />
+	<Image Name="ass016" XPos="210" YPos="0" Width="70" Height="70" />
+	<Image Name="ass015" XPos="280" YPos="0" Width="70" Height="70" />
+	<Image Name="ass014" XPos="350" YPos="0" Width="70" Height="70" />
+	<Image Name="ass013" XPos="420" YPos="0" Width="70" Height="70" />
+	<Image Name="ass012" XPos="0" YPos="70" Width="70" Height="70" />
+	<Image Name="ass011" XPos="70" YPos="70" Width="70" Height="70" />
+	<Image Name="ass010" XPos="140" YPos="70" Width="70" Height="70" />
+	<Image Name="ass01" XPos="210" YPos="70" Width="70" Height="70" />
+</Imageset>

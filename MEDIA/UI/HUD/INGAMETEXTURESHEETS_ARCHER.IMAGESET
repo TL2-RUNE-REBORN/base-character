@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_Archer" Imagefile="media/ui/hud/ingametexturesheets_archer.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="ig_skilltabs_archer_archery_rollover" XPos="0" YPos="18" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_archery_on" XPos="72" YPos="18" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_archery_off" XPos="144" YPos="18" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_hunting_rollover" XPos="0" YPos="69" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_hunting_on" XPos="72" YPos="69" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_hunting_off" XPos="144" YPos="69" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_survival_rollover" XPos="0" YPos="120" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_survival_on" XPos="72" YPos="118" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_archer_survival_off" XPos="144" YPos="120" Width="70" Height="50" />
+	<Image Name="ig_charge_archer_overlay" XPos="0" YPos="179" Width="246" Height="50" />
+	<Image Name="ig_charge_archer_frame" XPos="0" YPos="248" Width="246" Height="50" />
+ 	<Image Name="ig_charge_archer_bar" XPos="0" YPos="322" Width="225" Height="14" />
+</Imageset>

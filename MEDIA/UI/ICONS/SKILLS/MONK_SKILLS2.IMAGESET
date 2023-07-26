@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "monk_skills2" Imagefile="media/ui/icons/skills/monk_skills2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skillicon_monk_frozen_fists_gray" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_frozen_fists" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_icicles_gray" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_icicles" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_umbra_gray" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="skillicon_monk_umbra" XPos="331" YPos="1" Width="64" Height="64" />
+
+	<Image Name="skillicon_monk_northern_lights_gray" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_northern_lights" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_waning_moon_gray" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_waning_moon" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_hard_freeze_gray" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="skillicon_monk_hard_freeze" XPos="331" YPos="67" Width="64" Height="64" />
+
+	<Image Name="skillicon_monk_solar_eclipse_gray" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_solar_eclipse" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_winter_gray" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_winter" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_full_moon_gray" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="skillicon_monk_full_moon" XPos="331" YPos="133" Width="64" Height="64" />
+
+	<Image Name="skillicon_monk_immovable_stance_gray" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="skillicon_monk_immovable_stance" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

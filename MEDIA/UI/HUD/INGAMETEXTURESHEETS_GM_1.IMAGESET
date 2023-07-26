@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_GM_1" Imagefile="media/ui/hud/ingametexturesheets_GM_1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_charge_GM_overlay" XPos="1" YPos="718" Width="244" Height="69" />
+	<Image Name="ig_charge_GM_frame" XPos="247" YPos="718" Width="244" Height="69" />
+</Imageset>

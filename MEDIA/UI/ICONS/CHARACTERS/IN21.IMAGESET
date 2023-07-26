@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IN21" Imagefile="media/ui/icons/characters/in21.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="bf5_l1_lced" XPos="1" YPos="1" Width="128" Height="128" />
+	<Image Name="bf5_l1_hover" XPos="131" YPos="1" Width="128" Height="128" />
+	<Image Name="bf5_l1" XPos="261" YPos="1" Width="128" Height="128" />
+	<Image Name="bf4_n1_lced" XPos="1" YPos="131" Width="128" Height="128" />
+	<Image Name="bf4_n1_hover" XPos="131" YPos="131" Width="128" Height="128" />
+	<Image Name="bf4_n1" XPos="261" YPos="131" Width="128" Height="128" />
+	<Image Name="bf4_l1_lced" XPos="1" YPos="261" Width="128" Height="128" />
+	<Image Name="bf4_l1_hover" XPos="131" YPos="261" Width="128" Height="128" />
+	<Image Name="bf4_l1" XPos="261" YPos="261" Width="128" Height="128" />
+</Imageset>

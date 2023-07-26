@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="CQ_content" Imagefile="media/ui/hud/CQ_chargebar.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="duelist_chargebar_charge" XPos="0" YPos="0" Width="280" Height="80" />
+	<Image Name="duelist_chargebar_base" XPos="0" YPos="80" Width="280" Height="80" />
+	<Image Name="duelist_chargebar_bar" XPos="280" YPos="0" Width="218" Height="34" />
+</Imageset>

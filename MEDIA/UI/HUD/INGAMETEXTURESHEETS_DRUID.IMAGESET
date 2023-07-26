@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_Druid" Imagefile="media/ui/hud/ingametexturesheets_druid.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+ 	<Image Name="ig_charge_druid_frame_full" XPos="1" YPos="1" Width="244" Height="69" />
+ 	<Image Name="ig_charge_druid_bar" XPos="247" YPos="1" Width="244" Height="69" />
+ 	<Image Name="ig_charge_druid_frame" XPos="493" YPos="1" Width="244" Height="69" />
+ 	<Image Name="ig_skilltabs_druid_nature_rollover" XPos="0" YPos="75" Width="70" Height="50" />
+ 	<Image Name="ig_skilltabs_druid_nature_on" XPos="72" YPos="75" Width="70" Height="50" />
+ 	<Image Name="ig_skilltabs_druid_nature_off" XPos="144" YPos="75" Width="70" Height="50" />
+ 	<Image Name="ig_skilltabs_druid_summon_rollover" XPos="0" YPos="126" Width="70" Height="50" />
+ 	<Image Name="ig_skilltabs_druid_summon_on" XPos="72" YPos="126" Width="70" Height="50" />
+ 	<Image Name="ig_skilltabs_druid_summon_off" XPos="144" YPos="126" Width="70" Height="50" />
+</Imageset>

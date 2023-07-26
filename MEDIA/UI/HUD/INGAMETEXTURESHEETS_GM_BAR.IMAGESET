@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_GM_Bar" Imagefile="media/ui/hud/ingametexturesheets_GM_bar.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_charge_GM_bar" XPos="224" YPos="987" Width="210" Height="35" />
+</Imageset>

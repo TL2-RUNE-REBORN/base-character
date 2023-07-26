@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "RXCQ_C" Imagefile="media/ui/icons/skills/RXCQ_C.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="cqhj_9b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_9" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_8b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_8" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_7b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_7" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_6b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="cqhj_6" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_5b" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_5" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_4b" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_4" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_3b" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_3" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="cqhj_2b" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="cqhj_2" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="cqhj_1b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="cqhj_10b" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="cqhj_10" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="cqhj_1" XPos="331" YPos="133" Width="64" Height="64" />
+</Imageset>

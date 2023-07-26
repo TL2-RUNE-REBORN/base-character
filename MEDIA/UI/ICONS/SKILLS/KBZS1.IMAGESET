@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "KBZS1" Imagefile="media/ui/icons/skills/KBZS1.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="kbzs112" XPos="1" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs111b" XPos="73" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs111" XPos="145" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs110b" XPos="217" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs110" XPos="289" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs109b" XPos="361" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs109" XPos="433" YPos="1" Width="70" Height="70" />
+	<Image Name="kbzs108b" XPos="1" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs108" XPos="73" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs107b" XPos="145" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs107" XPos="217" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs106b" XPos="289" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs106" XPos="361" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs105b" XPos="433" YPos="73" Width="70" Height="70" />
+	<Image Name="kbzs105" XPos="1" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs104b" XPos="73" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs104" XPos="145" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs103b" XPos="217" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs103" XPos="289" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs102b" XPos="361" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs102" XPos="433" YPos="145" Width="70" Height="70" />
+	<Image Name="kbzs101b" XPos="1" YPos="217" Width="70" Height="70" />
+	<Image Name="kbzs101" XPos="73" YPos="217" Width="70" Height="70" />
+</Imageset>

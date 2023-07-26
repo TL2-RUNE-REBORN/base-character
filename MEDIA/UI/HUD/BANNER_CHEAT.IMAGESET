@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "BANNER_CHEAT" Imagefile="media/ui/hud/BANNER_CHEAT.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="BANNER_CHEAT" XPos="0" YPos="0" Width="512" Height="1024" />
+</Imageset>

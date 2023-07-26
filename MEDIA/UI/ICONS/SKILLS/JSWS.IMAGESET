@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "JSWS" Imagefile="media/ui/icons/skills/JSWS.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="jsws1-9b" XPos="1" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-9" XPos="73" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-8b" XPos="145" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-8" XPos="217" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-7b" XPos="289" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-7" XPos="361" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-6b" XPos="433" YPos="1" Width="70" Height="70" />
+	<Image Name="jsws1-6" XPos="1" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-5b" XPos="73" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-5" XPos="145" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-4b" XPos="217" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-4" XPos="289" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-3b" XPos="361" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-3" XPos="433" YPos="73" Width="70" Height="70" />
+	<Image Name="jsws1-2b" XPos="1" YPos="145" Width="70" Height="70" />
+	<Image Name="jsws1-2" XPos="73" YPos="145" Width="70" Height="70" />
+	<Image Name="jsws1-1b" XPos="145" YPos="145" Width="70" Height="70" />
+	<Image Name="jsws1-12b" XPos="217" YPos="145" Width="70" Height="69" />
+	<Image Name="jsws1-12" XPos="289" YPos="145" Width="70" Height="69" />
+	<Image Name="jsws1-11b" XPos="361" YPos="145" Width="70" Height="70" />
+	<Image Name="jsws1-11" XPos="433" YPos="145" Width="70" Height="70" />
+	<Image Name="jsws1-10b" XPos="217" YPos="216" Width="70" Height="70" />
+	<Image Name="jsws1-10" XPos="289" YPos="216" Width="70" Height="70" />
+	<Image Name="jsws1-1" XPos="361" YPos="216" Width="70" Height="70" />
+</Imageset>

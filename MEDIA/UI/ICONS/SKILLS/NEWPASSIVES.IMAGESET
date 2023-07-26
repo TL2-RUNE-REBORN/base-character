@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>							
+<Imageset Name= "newpassives" Imagefile="media/ui/icons/skills/newpassives.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >							
+	<Image Name="alchoverlord" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="alchoverlord_gray" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="alchaftershock" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="alchaftershock_gray" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="alchphylactery" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="alchphylactery_gray" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="row1col7" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="alchFiregauntlet" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="alchmethodical" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="alchmethodical_gray" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="alchdismantle" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="alchdismantle_gray" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="alchFiregauntletgray" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="row2col5" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="row2col6" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="row2col7" XPos="397" YPos="67" Width="64" Height="64" />
+</Imageset>

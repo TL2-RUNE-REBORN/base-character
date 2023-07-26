@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_Monk" Imagefile="media/ui/hud/ingametexturesheets_monk.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="ig_skilltabs_monkmoon_rollover" XPos="0" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monkmoon_on" XPos="72" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monkmoon_off" XPos="144" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monksun_rollover" XPos="0" YPos="50" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monksun_on" XPos="72" YPos="50" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monksun_off" XPos="144" YPos="50" Width="70" Height="50" />
+ 	<Image Name="ig_charge_monk_bar" XPos="0" YPos="150" Width="371" Height="33" />
+ 	<Image Name="ig_charge_monk_frame" XPos="0" YPos="110" Width="371" Height="33" />
+ 	<Image Name="ig_charge_monk_frame_full" XPos="0" YPos="190" Width="371" Height="33" />
+</Imageset>

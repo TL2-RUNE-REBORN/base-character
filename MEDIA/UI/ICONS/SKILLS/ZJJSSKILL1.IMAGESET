@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "ZJJSSKILL1" Imagefile="media/ui/icons/skills/ZJJSSKILL1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zjjst24b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst24" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst23b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst23" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst22b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst22" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst21b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="zjjst212b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst212" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst211b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst211" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst210b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst210" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst21" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="zjjst2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="zjjst10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="zjjst1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

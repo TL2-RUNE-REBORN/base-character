@@ -1,0 +1,19 @@
+material ezrohir_boss_rubble_01_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse vertexcolour
+			specular 0 0 0 0
+			emissive 0 0 0
+			scene_blend alpha_blend
+			alpha_rejection greater 5
+			texture_unit
+			{
+				texture ezrohir_boss_rubble_01.png
+			}
+		}
+	}
+}

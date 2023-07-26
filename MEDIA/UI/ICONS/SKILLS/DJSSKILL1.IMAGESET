@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "DJSSKILL1" Imagefile="media/ui/icons/skills/DJSSKILL1.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="djsskill24b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill24" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill23b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill23" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill22b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill22" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill21b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="djsskill212b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill212" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill211b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill211" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill210b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill210" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill21" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="djsskill2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="djsskill10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="djsskill1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

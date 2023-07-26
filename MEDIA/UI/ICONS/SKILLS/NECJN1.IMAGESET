@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "NECJN1" Imagefile="media/ui/icons/skills/NECJN1.DDS" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="nec019" XPos="0" YPos="0" Width="70" Height="70" />
+	<Image Name="nec018" XPos="70" YPos="0" Width="70" Height="70" />
+	<Image Name="nec017" XPos="140" YPos="0" Width="70" Height="70" />
+	<Image Name="nec016" XPos="210" YPos="0" Width="70" Height="70" />
+	<Image Name="nec015" XPos="280" YPos="0" Width="70" Height="70" />
+	<Image Name="nec014" XPos="350" YPos="0" Width="70" Height="70" />
+	<Image Name="nec013" XPos="420" YPos="0" Width="70" Height="70" />
+	<Image Name="nec012" XPos="0" YPos="70" Width="70" Height="70" />
+	<Image Name="nec011" XPos="70" YPos="70" Width="70" Height="70" />
+	<Image Name="nec010" XPos="140" YPos="70" Width="70" Height="70" />
+	<Image Name="nec01" XPos="210" YPos="70" Width="70" Height="70" />
+</Imageset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "JDTM" Imagefile="media/ui/icons/skills/jdtm.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="jdtm309" XPos="1" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm308" XPos="73" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm307" XPos="145" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm306" XPos="217" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm305" XPos="289" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm303" XPos="361" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm3012" XPos="433" YPos="1" Width="70" Height="70" />
+	<Image Name="jdtm3011" XPos="1" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm3010" XPos="73" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm209" XPos="145" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm203" XPos="217" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm2012" XPos="289" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm2011" XPos="361" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm2010" XPos="433" YPos="73" Width="70" Height="70" />
+	<Image Name="jdtm109" XPos="1" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm108" XPos="73" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm106" XPos="145" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm105" XPos="217" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm104" XPos="289" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm103" XPos="361" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm102" XPos="433" YPos="145" Width="70" Height="70" />
+	<Image Name="jdtm1012" XPos="1" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm1011" XPos="73" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm1010" XPos="145" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm101" XPos="217" YPos="217" Width="70" Height="70" />
+	<Image Name="jdtm107" XPos="289" YPos="217" Width="70" Height="70" />
+</Imageset>

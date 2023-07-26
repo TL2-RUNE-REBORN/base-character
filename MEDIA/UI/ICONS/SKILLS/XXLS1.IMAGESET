@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "XXLS1" Imagefile="media/ui/icons/skills/XXLS1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="xxlst24b" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst24" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst23b" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst23" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst22b" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst22" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst21b" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="xxlst212b" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst212" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst211b" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst211" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst210b" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst210" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst21" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="xxlst2" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst1b" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst12b" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst12" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst11b" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst11" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst10b" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="xxlst10" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="xxlst1" XPos="67" YPos="199" Width="64" Height="64" />
+</Imageset>

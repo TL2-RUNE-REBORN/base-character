@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets_BLAND" Imagefile="media/ui/hud/ingametexturesheets_BLAND.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="ig_skilltabs_monkmoo_rollover" XPos="0" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monkmoo_on" XPos="72" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monkmoo_off" XPos="144" YPos="0" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monksu_rollover" XPos="0" YPos="50" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monksu_on" XPos="72" YPos="50" Width="70" Height="50" />
+	<Image Name="ig_skilltabs_monksu_off" XPos="144" YPos="50" Width="70" Height="50" />
+ 	<Image Name="ig_charge_BLAND_bar" XPos="0" YPos="150" Width="371" Height="33" />
+ 	<Image Name="ig_charge_BLAND_frame" XPos="0" YPos="110" Width="371" Height="33" />
+ 	<Image Name="ig_charge_BLAND_frame_full" XPos="0" YPos="190" Width="371" Height="33" />
+</Imageset>

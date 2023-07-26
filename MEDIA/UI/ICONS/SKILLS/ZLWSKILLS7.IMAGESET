@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "zlwskills7" Imagefile="media/ui/icons/skills/zlwskills7.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_skills_n_energyspear" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_energyspear" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_n_temporift" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_temporift" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_n_muster" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_muster" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_n_might" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="icon_skills_might" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_skills_n_nova" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_skills_nova" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_skills_n_holyground" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="icon_skills_holyground" XPos="265" YPos="67" Width="64" Height="64" />
+</Imageset>

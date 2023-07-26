@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "LEGIONARYTEXTURESHEETS1" Imagefile="media/ui/hud/LEGIONARYTEXTURESHEETS1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_bannertop_sigil_legionary" XPos="184" YPos="440" Width="108" Height="66" />
+</Imageset>

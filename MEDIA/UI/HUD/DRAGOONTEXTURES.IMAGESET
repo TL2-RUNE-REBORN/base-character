@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "DragoonTextures" Imagefile="media/ui/hud/DragoonTextures.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_dcharge_dragoon_bar" XPos="4" YPos="162" Width="212" Height="16" />
+	<Image Name="ig_dcharge_dragoon_overlay" XPos="1" YPos="373" Width="244" Height="69" />
+	<Image Name="ig_dcharge_dragoon_frame" XPos="2" YPos="470" Width="244" Height="69" />
+</Imageset>

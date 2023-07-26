@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "BAR1" Imagefile="media/ui/icons/SKILLS/BAR1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="bars032" XPos="0" YPos="0" Width="71" Height="70" />
+	<Image Name="bars030" XPos="71" YPos="0" Width="71" Height="70" />
+	<Image Name="bars029" XPos="142" YPos="0" Width="71" Height="70" />
+	<Image Name="bars026" XPos="213" YPos="0" Width="71" Height="71" />
+	<Image Name="bars022" XPos="284" YPos="0" Width="71" Height="72" />
+	<Image Name="bars02" XPos="355" YPos="0" Width="71" Height="71" />
+	<Image Name="bars018" XPos="426" YPos="0" Width="71" Height="72" />
+	<Image Name="bars014" XPos="0" YPos="70" Width="71" Height="71" />
+	<Image Name="bars013" XPos="71" YPos="70" Width="71" Height="71" />
+	<Image Name="bars012" XPos="142" YPos="70" Width="71" Height="71" />
+	<Image Name="bars010" XPos="213" YPos="71" Width="71" Height="72" />
+	<Image Name="bars34" XPos="355" YPos="71" Width="70" Height="71" />
+	<Image Name="bars31" XPos="284" YPos="72" Width="70" Height="70" />
+	<Image Name="bars24" XPos="426" YPos="72" Width="70" Height="71" />
+	<Image Name="bars23" XPos="0" YPos="141" Width="70" Height="71" />
+	<Image Name="bars21" XPos="70" YPos="141" Width="70" Height="71" />
+	<Image Name="bars15" XPos="140" YPos="141" Width="70" Height="71" />
+	<Image Name="bars034" XPos="284" YPos="142" Width="70" Height="71" />
+	<Image Name="bars031" XPos="354" YPos="142" Width="70" Height="70" />
+	<Image Name="bars024" XPos="213" YPos="143" Width="70" Height="71" />
+	<Image Name="bars023" XPos="426" YPos="143" Width="70" Height="71" />
+	<Image Name="bars021" XPos="0" YPos="212" Width="70" Height="71" />
+	<Image Name="bars015" XPos="70" YPos="212" Width="70" Height="71" />
+</Imageset>
