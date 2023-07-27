@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "NEWTXA3" Imagefile="media/ui/icons/characters/NEWTXA3.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="a11_fl" XPos="1" YPos="1" Width="128" Height="128" />
+	<Image Name="a11_fh" XPos="131" YPos="1" Width="128" Height="128" />
+	<Image Name="a11_f" XPos="261" YPos="1" Width="128" Height="128" />
+	<Image Name="a10_ml" XPos="1" YPos="131" Width="128" Height="128" />
+	<Image Name="a10_mh" XPos="131" YPos="131" Width="128" Height="128" />
+	<Image Name="a10_m" XPos="261" YPos="131" Width="128" Height="128" />
+	<Image Name="a10_fl" XPos="1" YPos="261" Width="128" Height="128" />
+	<Image Name="a10_fh" XPos="131" YPos="261" Width="128" Height="128" />
+	<Image Name="a10_f" XPos="261" YPos="261" Width="128" Height="128" />
+</Imageset>

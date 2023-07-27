@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IMBATGHAMMER" Imagefile="media/ui/icons/weapons/IMBATGHAMMER.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="imbatghammer9" XPos="1" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer8" XPos="67" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer7" XPos="133" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer6" XPos="199" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer5" XPos="265" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer4" XPos="331" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer3" XPos="397" YPos="1" Width="64" Height="64" />
+	<Image Name="imbatghammer29" XPos="1" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer28" XPos="67" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer27" XPos="133" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer26" XPos="199" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer25" XPos="265" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer24" XPos="331" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer23" XPos="397" YPos="67" Width="64" Height="64" />
+	<Image Name="imbatghammer22" XPos="1" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer21" XPos="67" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer20" XPos="133" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer2" XPos="199" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer19" XPos="265" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer18" XPos="331" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer17" XPos="397" YPos="133" Width="64" Height="64" />
+	<Image Name="imbatghammer16" XPos="1" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer15" XPos="67" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer14" XPos="133" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer13" XPos="199" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer12" XPos="265" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer11" XPos="331" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer10" XPos="397" YPos="199" Width="64" Height="64" />
+	<Image Name="imbatghammer1" XPos="1" YPos="265" Width="64" Height="64" />
+</Imageset>

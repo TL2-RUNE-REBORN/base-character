@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "NEWTX21" Imagefile="media/ui/icons/characters/NEWTX21.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="a1_fl" XPos="1" YPos="1" Width="128" Height="128" />
+	<Image Name="a1_fh" XPos="131" YPos="1" Width="128" Height="128" />
+	<Image Name="a1_f" XPos="261" YPos="1" Width="128" Height="128" />
+</Imageset>

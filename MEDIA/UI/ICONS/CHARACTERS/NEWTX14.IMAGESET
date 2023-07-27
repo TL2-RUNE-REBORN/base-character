@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "NEWTX14" Imagefile="media/ui/icons/characters/NEWTX14.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="b2_ml" XPos="1" YPos="1" Width="128" Height="128" />
+	<Image Name="b2_mh" XPos="131" YPos="1" Width="128" Height="128" />
+	<Image Name="b2_m" XPos="261" YPos="1" Width="128" Height="128" />
+	<Image Name="b2_fl" XPos="1" YPos="131" Width="128" Height="128" />
+	<Image Name="b2_fh" XPos="131" YPos="131" Width="128" Height="128" />
+	<Image Name="b2_f" XPos="261" YPos="131" Width="128" Height="128" />
+	<Image Name="b1_ml" XPos="1" YPos="261" Width="128" Height="128" />
+	<Image Name="b1_mh" XPos="131" YPos="261" Width="128" Height="128" />
+	<Image Name="b1_m" XPos="261" YPos="261" Width="128" Height="128" />
+</Imageset>
